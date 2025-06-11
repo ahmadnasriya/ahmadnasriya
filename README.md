@@ -153,149 +153,17 @@ I occasionally take on freelance or contract work — especially when the projec
 
 Whether you're looking for a conversation, consultation, or a full project — I’m open to meaningful work that aligns with my values.
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center; margin-top: 1em;">
+[![Let's Meet](https://img.shields.io/badge/🤝_Let's_Meet-0078FF?style=for-the-badge)](https://calendly.com/ahmadnasriya/meet)
+[![Book Consultation](https://img.shields.io/badge/💬_Consultation-008080?style=for-the-badge)](https://calendly.com/ahmadnasriya/consultation)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-1a1a40?style=for-the-badge&logo=linkedin&logoColor=ffd700)](https://www.linkedin.com/in/ahmadnasriya)
 
-  <style>
-    .button {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      padding: 8px 18px;
-      border-radius: 8px;
-      font-weight: 700;
-      text-decoration: none;
-      cursor: pointer;
-      transition: all 0.3s ease;
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
-        Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      user-select: none;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.15);
-    }
-
-    /* Meet: your blue gradient with proper glow */
-    .meet {
-      background: linear-gradient(90deg, #3533c2 0%, #0078FF 100%);
-      color: white;
-      border: none;
-      letter-spacing: 0.03em;
-      text-shadow: 0 0 8px rgba(0,120,255,0.8);
-      box-shadow: 0 0 12px rgba(0,120,255,0.6);
-    }
-    .meet:hover {
-      background: linear-gradient(45deg, #3533c2 0%, #0078FF 100%);
-      box-shadow: 0 0 20px rgba(0,120,255,0.9);
-      transform: translateY(-2px);
-    }
-
-    /* Consultation: teal/green style */
-    .consult {
-      background: #008080;
-      color: #e0f7f7;
-      border: 1.5px solid rgba(0, 128, 128, 0.7);
-      letter-spacing: 0.02em;
-      box-shadow: 0 4px 12px rgba(0,128,128,0.6);
-    }
-    .consult:hover {
-      background: #00b3b3;
-      color: white;
-      border-color: #00a0a0;
-      box-shadow: 0 6px 20px rgba(0,179,179,0.7);
-      transform: translateY(-2px);
-    }
-
-    /* Hire: classy dark navy with gold accents */
-    .hire {
-      background: #1a1a40;
-      color: #ffd700;
-      border: 2px solid #b8860b;
-      letter-spacing: 0.02em;
-      box-shadow: 0 4px 10px rgba(184,134,11,0.7);
-    }
-    .hire:hover {
-      background: #ffd700;
-      color: #1a1a40;
-      border-color: #e6c200;
-      box-shadow: 0 8px 25px rgba(230,194,0,0.9);
-      transform: translateY(-2px);
-    }
-  </style>
-
-  <a href="https://calendly.com/ahmadnasriya/meet" target="_blank" rel="noopener" class="button meet" title="Schedule a casual meeting" aria-label="Schedule a casual meeting with Ahmad Nasriya">
-    🤝 Let's Meet
-  </a>
-
-  <a href="https://calendly.com/ahmadnasriya/consultation" target="_blank" rel="noopener" class="button consult" title="60 min consultation for 50 EUR">
-    💬 Book Consultation
-  </a>
-
-  <a href="https://www.linkedin.com/in/ahmadnasriya" target="_blank" rel="noopener" class="button hire" title="Connect on LinkedIn">
-    💼 Hire Me
-  </a>
-
-</div>
 
 ---
 ## 🧪 Explore
 
-<style>
-  .explore-container {
-    display: flex;
-    gap: 16px;
-    justify-content: flex-start; /* left align */
-    flex-wrap: wrap;
-    margin: 1em 0;
-  }
-  .explore-card {
-    background: #0a2540;
-    color: #a0c8ff;
-    border-radius: 12px;
-    padding: 12px 16px;
-    width: 200px; /* smaller width */
-    box-shadow: 0 6px 14px rgba(0,120,255,0.3);
-    text-align: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    transition: background 0.3s ease, color 0.3s ease;
-    user-select: none;
-    cursor: pointer;
-  }
-  .explore-card:hover {
-    background: #0078ff;
-    color: white;
-  }
-  .explore-card a {
-    color: inherit !important;
-    text-decoration: none !important;
-    font-weight: 700;
-    font-size: 1em; /* slightly smaller font */
-    display: inline-block;
-    transition: color 0.3s ease;
-    user-select: none;
-  }
-  .explore-card:hover a {
-    color: inherit !important;
-  }
-  .explore-icon {
-    font-size: 2rem; /* smaller icon */
-    margin-bottom: 0.3em;
-    user-select: none;
-  }
-</style>
-
-<div class="explore-container">
-  <div class="explore-card" onclick="window.open('https://github.com/nasriyasoftware', '_blank')">
-    <div class="explore-icon">🐙</div>
-    <a href="https://github.com/nasriyasoftware" target="_blank" rel="noopener">GitHub Organization</a>
-  </div>
-  <div class="explore-card" onclick="window.open('https://www.npmjs.com/~ahmadnasriya', '_blank')">
-    <div class="explore-icon">📦</div>
-    <a href="https://www.npmjs.com/~ahmadnasriya" target="_blank" rel="noopener">npm Packages</a>
-  </div>
-  <div class="explore-card" onclick="window.open('https://github.com/ahmadnasriya', '_blank')">
-    <div class="explore-icon">🧪</div>
-    <a href="https://github.com/ahmadnasriya" target="_blank" rel="noopener">Experiments & Source</a>
-  </div>
-</div>
-
+[![🐙 GitHub Org](https://img.shields.io/badge/GitHub_Org-0a2540?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nasriyasoftware)
+[![📦 npm](https://img.shields.io/badge/npm_Packages-0a2540?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~ahmadnasriya)
+[![🧪 Experiments](https://img.shields.io/badge/Experiments_&_Source-0a2540?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/ahmadnasriya)
 
 ---
 
