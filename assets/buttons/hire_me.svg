@@ -1,0 +1,16 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="1882px" height="874px">
+<defs>
+<linearGradient id="PSgrad_0" x1="0%" x2="76.604%" y1="0%" y2="64.279%">
+  <stop offset="0%" stop-color="rgb(0,120,255)" stop-opacity="1" />
+  <stop offset="38%" stop-color="rgb(27,86,225)" stop-opacity="1" />
+  <stop offset="100%" stop-color="rgb(53,51,194)" stop-opacity="1" />
+</linearGradient>
+
+</defs>
+<path fill-rule="evenodd"  fill="url(#PSgrad_0)"
+ d="M100.0,0.0 L1781.999,0.0 C1837.228,0.0 1881.999,44.771 1881.999,100.0 L1881.999,773.999 C1881.999,829.228 1837.228,873.999 1781.999,873.999 L100.0,873.999 C44.771,873.999 0.0,829.228 0.0,773.999 L0.0,100.0 C0.0,44.771 44.771,0.0 100.0,0.0 Z"/>
+<text kerning="auto" font-family="Myriad Pro" fill="rgb(0, 0, 0)" font-size="361.111px" x="242px" y="571.781px"><tspan font-size="361.111px" font-family="Sora" font-weight="bold" fill="#FEFEFE">Hire&#32;Me</tspan></text>
+</svg>
