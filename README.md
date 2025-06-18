@@ -1,4 +1,3 @@
-
 <h1 align="center">Ahmad Nasriya</h1>
 <p align="center">
   <b>Independent Developer, Infrastructure Architect, and OSS  Maintainer</b><br>
