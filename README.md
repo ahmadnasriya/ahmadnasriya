@@ -1,11 +1,9 @@
 
-<div style="display:flex; flex-direction:column; align-items: center;">
-    <h1>Ahmad Nasriya</h1>
-    <p>
-        <b>Independent Developer, Infrastructure Architect, and OSS  Maintainer</b><br>
-        Building local-first software with minimal dependencies andmaximal   autonomy.
-    </p>
-</div>
+<h1 align="center">Ahmad Nasriya</h1>
+<p align="center">
+  <b>Independent Developer, Infrastructure Architect, and OSS  Maintainer</b><br>
+  Building local-first software with minimal dependencies andmaximal   autonomy.
+</p>
 
 ---
 
@@ -66,18 +64,19 @@ Every **star**, **share**, and **contribution** moves us closer to a freer, more
 
 ## 📦 Notable Packages
 
-| Package | What It Does | Domain | Downloads |
-|---------|--------------|--------|-----------|
-| [`@nasriya/hypercloud`](https://npmjs.com/package/@nasriya/hypercloud) | Lightweight HTTP2 framework with static caching | 🌐 Networking | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/hypercloud.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/hypercloud) |
-| [`@nasriya/orchestriq`](https://npmjs.com/package/@nasriya/orchestriq) | Powerful CI/CD orchestration and automation toolkit | 🔄 CI/CD | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/orchestriq.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/orchestriq) |
-| [`@nasriya/authcrypto`](https://npmjs.com/package/@nasriya/authcrypto) | JWT, password hashing, encryption toolkit | 🔐 Security | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/authcrypto.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/authcrypto) |
-| [`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb) | Advanced MongoDB client with caching + broker sync | 🗄️ Databases | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/mongodb.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/mongodb) |
-| [`@nasriya/uuidx`](https://npmjs.com/package/@nasriya/uuidx) | Tiny UUID generator | 🆔 Identifiers | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/uuidx.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/uuidx) |
-| [`@nasriya/recaptcha`](https://npmjs.com/package/@nasriya/recaptcha) | Server-side reCAPTCHA validation | 🧠 Bot Protection | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/recaptcha.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/recaptcha) |
-| [`@nasriya/logify`](https://npmjs.com/package/@nasriya/logify) | Structured Node.js logger | 🧾 Logging | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/logify.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/logify) |
-| [`@nasriya/cron`](https://npmjs.com/package/@nasriya/cron) | Clean cron scheduler | ⏱ Scheduling | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/cron.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/cron) |
-| [`@nasriya/dns`](https://npmjs.com/package/@nasriya/dns) | DNS & domain management | 🌍 Infrastructure | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/dns.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/dns) |
-| [`@nasriya/postbuild`](https://npmjs.com/package/@nasriya/postbuild) | Build-time task runner | ⚙️ Tooling | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/postbuild.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/postbuild) |
+| Package                                                                | What It Does                                        | Domain           | Downloads                                                                                                                                                                       |
+| ---------------------------------------------------------------------- | --------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [`@nasriya/hypercloud`](https://npmjs.com/package/@nasriya/hypercloud) | Lightweight HTTP2 framework with static caching     | 🌐 Networking     | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/hypercloud.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/hypercloud) |
+| [`@nasriya/orchestriq`](https://npmjs.com/package/@nasriya/orchestriq) | Powerful CI/CD orchestration and automation toolkit | 🔄 CI/CD          | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/orchestriq.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/orchestriq) |
+| [`@nasriya/authcrypto`](https://npmjs.com/package/@nasriya/authcrypto) | JWT, password hashing, encryption toolkit           | 🔐 Security       | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/authcrypto.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/authcrypto) |
+| [`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb)       | Advanced MongoDB client with caching + broker sync  | 🗄️ Databases      | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/mongodb.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/mongodb)       |
+| [`@nasriya/overwatch`](https://npmjs.com/package/@nasriya/overwatch)   | Platform-agnostic file system watcher               | 🕵️ Monitoring     | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/overwatch.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/overwatch)   |
+| [`@nasriya/uuidx`](https://npmjs.com/package/@nasriya/uuidx)           | Tiny UUID generator                                 | 🆔 Identifiers    | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/uuidx.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/uuidx)           |
+| [`@nasriya/recaptcha`](https://npmjs.com/package/@nasriya/recaptcha)   | Server-side reCAPTCHA validation                    | 🧠 Bot Protection | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/recaptcha.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/recaptcha)   |
+| [`@nasriya/logify`](https://npmjs.com/package/@nasriya/logify)         | Structured Node.js logger                           | 🧾 Logging        | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/logify.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/logify)         |
+| [`@nasriya/cron`](https://npmjs.com/package/@nasriya/cron)             | Clean cron scheduler                                | ⏱ Scheduling     | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/cron.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/cron)             |
+| [`@nasriya/dns`](https://npmjs.com/package/@nasriya/dns)               | DNS & domain management                             | 🌍 Infrastructure | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/dns.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/dns)               |
+| [`@nasriya/postbuild`](https://npmjs.com/package/@nasriya/postbuild)   | Build-time task runner                              | ⚙️ Tooling        | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/postbuild.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/postbuild)   |
 
 ➡️ See more on my [npm profile](https://www.npmjs.com/~ahmadnasriya)
 
@@ -88,13 +87,7 @@ Every **star**, **share**, and **contribution** moves us closer to a freer, more
 
 ## 🚧 In Progress — Roadmap
 
-### 1. 🕵️ **Overwatch**
-A platform-agnostic file system change detector  
-> [!TIP]
-> Reliable and configurable file system change detection
-> Overwatch provides consistent, platform-independent monitoring of file system changes without relying on native OS watchers or external dependencies. Its configurable detection frequency lets you balance responsiveness and resource usage for your specific environment.
-
-### 2. ⚡ **HyperCache**
+### 1. ⚡ **HyperCache**
 Intelligent, real-time caching engine
 > [!TIP]
 > - Caches values and static files  
@@ -102,7 +95,7 @@ Intelligent, real-time caching engine
 > - Integrated into [`@nasriya/hypercloud`](https://npmjs.com/package/@nasriya/hypercloud) for static route caching  
 > - Can be used independently in any server or CLI context
 
-### 3. 🧠 [`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb) (Next Phase)  
+### 2. 🧠 [`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb) (Next Phase)  
 Multi-adapter, failover-safe MongoDB client  
 > [!TIP]
 > - Uses [HyperCache] for smart internal cache  
@@ -111,7 +104,7 @@ Multi-adapter, failover-safe MongoDB client
 > - Flushes cache on disconnect and rehydrates when reconnected  
 > - Future: support for **multi-database writes** and **read fallback**
 
-### 4. 🗂 **FileVerse**  
+### 3. 🗂 **FileVerse**  
 Media-optimized file server for apps
 > [!TIP]
 > - Serves from cloud storage, NFS, or SMB  
@@ -127,7 +120,7 @@ I occasionally take on freelance or contract work — especially when the projec
 
 ### 🛠 What I Do
 - 🧠 **Systems programming in Node.js (TypeScript)**  
-  I build everything from file watchers, schedulers, and CI/CD pipelines to media servers and cloud-free infrastructure — zero dependencies where possible, total control always.
+  I build everything from file watchers, schedulers, and CI/CD pipelines to media servers and cloud-free infrastructure — zero dependencies when possible, total control always.
 
 - 📦 **Custom SDKs, libraries & adapters**  
   I create well-documented, production-ready Node.js packages tailored to your API, service, or workflow. Minimal dependencies, maximum clarity.
@@ -167,4 +160,4 @@ Whether you're looking for a conversation, consultation, or a full project — I
 
 ---
 
-<h3 style="text-align:center">Built from scratch. Designed for clarity. Made with ❤️ in Palestine 🇵🇸</h3>
+<p align="center"><strong>Built from scratch. Designed for clarity. Made with ❤️ in Palestine 🇵🇸</strong></p>
