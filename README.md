@@ -13,7 +13,7 @@ I'm a backend engineer and infrastructure architect focused on building fast, se
 Check out a song I created about myself, available on SoundCloud:
 
 <a href="#" target="_blank">
-  <img src="./assets//buttons/listen on soundcloud - dark.svg" alt="Listen on Soundcloud" style="max-width:150px">
+  <img src="./assets//buttons/listen on soundcloud - dark.svg" alt="Listen on Soundcloud" width="150">
 </a>
 
 ---
