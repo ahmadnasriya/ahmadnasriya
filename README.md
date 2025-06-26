@@ -5,10 +5,16 @@
 </p>
 
 ---
-
 ## 🛠️ About Me
 
 I'm a backend engineer and infrastructure architect focused on building fast, secure, and self-reliant systems. I create tools that eliminate unnecessary third-party dependencies and prioritize local control, performance, and privacy. Most of my production-ready work is published under the [@nasriyasoftware](https://github.com/nasriyasoftware) GitHub organization and on [📦 npm](https://npmjs.com/~ahmadnasriya).
+
+##### 🎵 My Song
+Check out a song I created about myself, available on SoundCloud:
+
+<a href="#" target="_blank">
+  <img src="./assets//buttons/listen on soundcloud - dark.svg" alt="Listen on Soundcloud" style="max-width:150px">
+</a>
 
 ---
 
@@ -70,6 +76,7 @@ Every **star**, **share**, and **contribution** moves us closer to a freer, more
 | [`@nasriya/authcrypto`](https://npmjs.com/package/@nasriya/authcrypto) | JWT, password hashing, encryption toolkit           | 🔐 Security       | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/authcrypto.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/authcrypto) |
 | [`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb)       | Advanced MongoDB client with caching + broker sync  | 🗄️ Databases      | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/mongodb.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/mongodb)       |
 | [`@nasriya/overwatch`](https://npmjs.com/package/@nasriya/overwatch)   | Platform-agnostic file system watcher               | 🕵️ Monitoring     | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/overwatch.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/overwatch)   |
+| [`@nasriya/atomix`](https://npmjs.com/package/@nasriya/atomix)         | Minimal backend utility toolkit                     | 🧰 Utilities      | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/atomix.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/atomix)         |
 | [`@nasriya/uuidx`](https://npmjs.com/package/@nasriya/uuidx)           | Tiny UUID generator                                 | 🆔 Identifiers    | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/uuidx.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/uuidx)           |
 | [`@nasriya/recaptcha`](https://npmjs.com/package/@nasriya/recaptcha)   | Server-side reCAPTCHA validation                    | 🧠 Bot Protection | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/recaptcha.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/recaptcha)   |
 | [`@nasriya/logify`](https://npmjs.com/package/@nasriya/logify)         | Structured Node.js logger                           | 🧾 Logging        | [![npm downloads](https://img.shields.io/npm/dm/@nasriya/logify.svg?style=for-the-badge&color=007ec6&labelColor=0a2540)](https://www.npmjs.com/package/@nasriya/logify)         |
@@ -136,9 +143,6 @@ I occasionally take on freelance or contract work — especially when the projec
 
 > [!NOTE]
 > I do not take React-based projects.
-
-
-
 
 ---
 ## 🤝 Collaborate With Me
