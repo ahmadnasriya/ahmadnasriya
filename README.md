@@ -12,7 +12,7 @@ I'm a backend engineer and infrastructure architect focused on building fast, se
 ##### 🎵 My Song
 Check out a song I created about myself, available on SoundCloud:
 
-<a href="#" target="_blank">
+<a href="https://on.soundcloud.com/auav2DhC676usDR6l8" target="_blank">
   <img src="./assets//buttons/listen on soundcloud - dark.svg" alt="Listen on Soundcloud" width="150">
 </a>
 
