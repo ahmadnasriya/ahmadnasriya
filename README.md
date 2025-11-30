@@ -60,25 +60,39 @@ visit my [**Agency Profile → Nasriya Software**](https://www.wix.com/studio/co
 
 ## 🚧 In Progress — Roadmap
 
-### 1. [`@nasriya/hypercloud`](https://npmjs.com/package/@nasriya/hypercloud)  
-Use [`@nasriya/cachify`](https://npmjs.com/package/@nasriya/cachify) for static caching and the in-memory rate limiter
+### 1. Socketify (`@nasriya/socketify`)
+High-performance HTTP/2-based real-time transport  
+Designed as a secure, modern alternative to WebSocket.
 
-### 2. 🧠 [`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb) (Next Phase)  
-Multi-adapter, failover-safe MongoDB client  
-> [!TIP]
-> - Uses [Cachify] for smart internal cache  
-> - Connects to a **data broker** via WebSockets  
-> - Syncs cache across DB instances when writes occur  
-> - Flushes cache on disconnect and rehydrates when reconnected  
-> - Future: support for **multi-database writes** and **read fallback**
+### 2. FlowGuard (`@nasriya/flowguard`)
+Request/stream firewall + rate-limiting layer  
+*(Built on top of `@nasriya/socketify`.)*
 
-### 3. 🗂 **FileVerse**  
-Media-optimized file server for apps
+### 3. HyperCloud ([`@nasriya/hypercloud`](https://npmjs.com/package/@nasriya/hypercloud))
+Backend framework for building modular, local-first cloud services
+
+- ✅ Integrate [`@nasriya/cachify`](https://npmjs.com/package/@nasriya/cachify) for static caching.
+- 🟩 Upgrade in-memory rate limiter (will use `@nasriya/flowguard`).
+
+### 4. MongoDB ([`@nasriya/mongodb`](https://npmjs.com/package/@nasriya/mongodb)) *(Next Phase)*
+Failover-safe, multi-adapter MongoDB client
+
 > [!TIP]
-> - Serves from cloud storage, NFS, or SMB  
-> - Enforces authentication, authorization, and rate-limits  
-> - Designed to integrate seamlessly into a microservice stack  
-> - Can be used as a standalone file server with [Overwatch] + [Cachify]
+> - Internally powered by **Cachify**
+> - Can connect to a **data broker** (via Socketify)
+> - Syncs cache across DB instances on writes  
+> - Flushes + rehydrates automatically on reconnect  
+> - Future: cross-database writes & read-fallback strategy
+
+### 5. 🗂 **FileVerse**
+Media-optimized file and asset server
+
+> [!TIP]
+> - Supports cloud storage, NFS, and SMB  
+> - Handles authentication, authorization, and rate-limits  
+> - Integrates seamlessly with HyperCloud microservices  
+> - Can run standalone with Overwatch + Cachify
+
 
 ---
 ## 🤝 Collaborate With Me
